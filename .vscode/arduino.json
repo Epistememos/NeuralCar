@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "NeuralCar.ino",
+    "port": "COM10"
+}
